@@ -15,5 +15,5 @@ Ce projet utilise Tesseract OCR et EasyOCR pour extraire du texte à partir d'im
 Clonez ce dépôt sur votre machine locale :
 
 ```sh
-git clone https://votre-repo.git
-cd votre-repo
+git clone https://github.com/AchrafKhairoun/ocr-text-extraction.git
+cd ocr-text-extraction
