@@ -1,0 +1,55 @@
+{
+    "EQUIPEMENTS": {
+        "SUR OUVRAGE": [
+            {
+                "Type": "Chaussée",
+                "SUBDI classe": 2,
+                "SUBDI S": "",
+                "CDOA classe": "",
+                "CDOA S": ""
+            },
+            {
+                "Type": "Trottoirs et bordures",
+                "SUBDI classe": 1,
+                "SUBDI S": "",
+                "CDOA classe": "",
+                "CDOA S": ""
+            },
+            {
+                "Type": "Dispositifs de retenue",
+                "SUBDI classe": 3,
+                "SUBDI S": "",
+                "CDOA classe": "",
+                "CDOA S": ""
+            },
+            {
+                "Type": "Corniches",
+                "SUBDI classe": 4,
+                "SUBDI S": "",
+                "CDOA classe": "",
+                "CDOA S": ""
+            },
+            {
+                "Type": "Dispositifs d'évacuation des eaux",
+                "SUBDI classe": 2,
+                "SUBDI S": "",
+                "CDOA classe": "",
+                "CDOA S": ""
+            },
+            {
+                "Type": "Joints de chaussée et de trottoirs",
+                "SUBDI classe": "S.O.",
+                "SUBDI S": "",
+                "CDOA classe": "S.O.",
+                "CDOA S": ""
+            },
+            {
+                "Type": "Autres équipements sur ouvrage",
+                "SUBDI classe": "S.O.",
+                "SUBDI S": "",
+                "CDOA classe": "S.O.",
+                "CDOA S": ""
+            }
+        ]
+    }
+}
